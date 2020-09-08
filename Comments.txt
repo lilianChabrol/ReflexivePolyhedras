@@ -1,0 +1,4 @@
+Program1 has been changed on the 8th of Septembre 2020 as to fix an issue with U(1) factors.
+
+One should consider additional U(1) factors to the gauge groups as to obtain a group of rank p-2 where p is the Picard number.
+
